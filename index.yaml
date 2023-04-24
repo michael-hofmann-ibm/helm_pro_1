@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  upgrade-rlbk:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-24T08:56:16.977112953+02:00"
+    description: A Helm chart for upgrade and rollback details
+    digest: 50ec89ed2c346b3994dd03626b36d6929c6eba9902f48b8882635767c9791d6d
+    name: upgrade-rlbk
+    type: application
+    urls:
+    - upgrade-rlbk-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-24T08:56:16.976636716+02:00"
